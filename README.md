@@ -1,5 +1,2 @@
-# testrepo
+# IBM-Data-Science-Capstone-SpaceX
 
-## Editing the file
-
-It is a markdown file in this repository.
